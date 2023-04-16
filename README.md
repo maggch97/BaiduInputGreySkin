@@ -6,6 +6,10 @@
 下载仓库中的grey.bdi，发送到iPhone或iPad上，我是使用的QQ发送的。
 iPhone或iPad接收到后打开，选择百度输入法打开
 
+预览截图：
+
+<img src="https://user-images.githubusercontent.com/23057110/232336404-afcf58e4-3c34-4a0a-8f96-af06c2b9b99b.PNG" width="300">
+
 ## 开发
 
 修改skin目录下的代码或资源文件后，运行build.py，会生成grey_build.bdi皮肤文件
