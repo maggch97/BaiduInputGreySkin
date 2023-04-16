@@ -1,0 +1,8 @@
+﻿Name=怀旧灰键
+Style=default
+Description=
+Author=
+SupportPlatform=I
+MinImeCode=0
+
+SkinType=1
